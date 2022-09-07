@@ -1,0 +1,101 @@
+《区块链技术学习路线图 1.0》
+https://liyuechun.com/39.html
+区块链学习网站-登链社区：
+https://learnblockchain.cn/
+区块链开发者入门指南：
+https://learnblockchain.cn/article/3026
+以太坊(Ethereum)私链建立 、合约编译、部署完全教程(1)
+https://liyuechun.com/188.html
+、以太坊：
+https://github.com/ethereum/go-ethereum
+以太坊知识库：
+https://learnblockchain.cn/eth/architecture.html
+以太坊智能合约编程之带菜鸟入门教程
+https://blog.51cto.com/zhangxueliang/3119979
+Ethers.js中文文档：
+https://learnblockchain.cn/docs/ethers.js/api-contract.html#id6
+Truffle中文文档：
+https://learnblockchain.cn/docs/truffle/getting-started/interacting-with-your-contracts.html
+Truffle官方文档：
+https://trufflesuite.com/docs/truffle/getting-started/interacting-with-your-contracts.html
+Geth官网及文档：
+https://geth.ethereum.org/docs/interface/private-network
+solidity官方中文文档：
+https://solidity-cn.readthedocs.io/zh/develop/
+以太坊源码解析（四）使用Geth：
+https://yaofeiliang.com/%E5%8C%BA%E5%9D%97%E9%93%BE/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%88%E5%9B%9B%EF%BC%89%E4%BD%BF%E7%94%A8Geth/
+、智能合约开发：
+事实标准库文档：
+https://docs.openzeppelin.com/
+[译] Hardhat 入门教程：
+https://learnblockchain.cn/article/1356
+【精解】开发一个智能合约：
+https://www.cnblogs.com/Evsward/p/contract.html
+智能合约调试问题：
+https://stackoverflow.com/questions/66432758/execution-reverted-when-calling-a-method-of-my-contract-in-nodejs
+以太坊交易信息及event、input、logs、topics等概念机制
+https://cloud.tencent.com/developer/article/1917644
+Remix IDE官方：
+http://remix.ethereum.org
+geth Fatal: Failed to unlock developer account：
+https://ethereum.stackexchange.com/questions/40200/geth-fatal-failed-to-unlock-developer-account
+以太坊geth dev模式：
+https://blog.csdn.net/Mia0717/article/details/104945384
+[区块链]2 以太坊 geth dev模式、交互console、有交易挖矿、自动挖矿：
+https://blog.csdn.net/billwzf/article/details/83145111
+详解 Truffle Migrations（迁移）- 合约部署不再困惑：
+https://learnblockchain.cn/article/990
+
+区块链浏览器：
+https://etherscan.io/
+Dapp雷达网：
+https://dappradar.com/rankings/category/games
+区块链币值行情：
+https://www.binance.com/zh-CN/markets
+
+以太测试网浏览器：
+https://ropsten.etherscan.io/
+小狐狸测试水龙头：
+https://faucet.metamask.io/
+测试Ropsten水龙头：
+https://faucet.ropsten.be/
+币安测试水龙头：
+https://testnet.binance.org/faucet-smart
+Polygon区块浏览器：
+https://polygonscan.com/
+
+、NFT技术：
+NFT学习：
+https://nftschool.dev/
+NFT交易：
+https://opensea.io/
+
+、IPFS与存储技术：
+https://ipfs.io/
+IPFS 使用入门
+https://learnblockchain.cn/2018/12/25/use-ipfs
+IPFS中文教程
+https://ipfs.netlify.app/docs/getting-started.html
+用IPFS和以太坊存储数据
+http://blog.hubwiz.com/2018/11/22/ethereum-ipfs-data-storage/
+通过 IPFS 铸造 NFT(一)
+https://blog.yuegs.com/2021/09/12/smart-contract-Mint-an-NFT-with-IPFS/
+IPFS上传文件并绑定域名
+https://inflambda.tech/post/2021-03-21-ipfs-website.html
+NFT必修课：如何使用IPFS创建NFT以及部署智能合约？
+https://new.qq.com/omn/20210819/20210819A06IKB00.html
+免费的NFT存储：
+https://nft.storage/
+slate存储：
+https://slate.host/#create-a-one-off-storage-deal
+NFT存储可选方案pinata：
+https://www.pinata.cloud/
+arweave存储方案：
+https://www.arweave.org/
+
+福洛链：
+https://zh.onflow.org/
+
+Yarn是什么？
+https://www.jianshu.com/p/1e8510826703
+
